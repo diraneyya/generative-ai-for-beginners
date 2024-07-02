@@ -1,3 +1,7 @@
+# This is Orwa's fork of the Microsoft curriculum
+
+:heart_eyes:
+
 ![Generative AI For Beginners](./images/repo-thumbnailv3.png?WT.mc_id=academic-105485-koreyst)
 
 ### 18 Lessons teaching everything you need to know to start building Generative AI applications
